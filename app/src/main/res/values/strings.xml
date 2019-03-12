@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjectTemplate</string>
+    <string name="git_users">Git Users</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash">Splash screen</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+</resources>
